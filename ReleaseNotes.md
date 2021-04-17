@@ -1,12 +1,17 @@
 Applications Management System Library for PHP (AppsCMS) - RELEASE NOTES
 ========================================================================
 see Licence in cms/LICENCE.txt
-<!-- SVN Build: $Id: ReleaseNotes.md 2058 2021-04-12 06:42:55Z robert0609 $ -->
+<!-- SVN Build: $Id: ReleaseNotes.md 2067 2021-04-13 06:11:26Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
 
 Released AppsCMS to the public domain under the BSD 3-Clause licence.
 See "https://opensource.org/licenses/BSD-3-Clause"
+
+Release Notes - V2.27-1 April 2021
+--------------------------------
+Minor improvements for contact us plugin.
+Improvements to debug tracking comments.
 
 Release Notes - V2.27 April 2021
 --------------------------------
