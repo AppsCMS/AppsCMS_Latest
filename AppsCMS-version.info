@@ -1,5 +1,11 @@
-# AppsCMS Version Info File (Used to check for updates - 20210720-175619).
-AppsCMS-version=V2.27-3
-AppsCMS-latest=AppsCMS-V2.27-3.zip
-AppsCMS-installer=AppsCMS-V2.27-3-Installer.sh
+#	Applications Management System Library for PHP (AppsCMS)
+#	see Licence in cms/LICENCE.txt
+#	SVN Build: svn2518
+
+# AppsCMS Version Info File (Used to check for updates - 20211205-153936).
+AppsCMS-version=V3.00-RC1
+AppsCMS-latest=AppsCMS-V3.00-RC1.zip
+AppsCMS-installer=AppsCMS-V3.00-RC1-Installer.sh
+AppsCMS-rpm=AppsCMS-V3.00-RC1.svn2518.noarch.rpm
+
 # .EOF.
