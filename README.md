@@ -1,7 +1,7 @@
 Applications Management System Library for PHP (AppsCMS) - README
 =========================================================
 see "[Licence](index.php?cms_action=cms_text_view&uri=cms%2FLICENCE.txt)"
-<!-- SVN Build: $Id: README.md 2486 2021-12-01 08:00:09Z robert0609 $ -->
+<!-- SVN Build: $Id: README.md 2576 2022-01-18 02:22:25Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
 
@@ -30,12 +30,12 @@ Bash code: 1,475 lines,
 Other code: 1,700 lines,
 cms_lib_sqsh.sqsh 15MB (read only squashfs contains cms/).
 
-Useful AppsCMS links;-
+Useful Online AppsCMS links;-
 ----------------------
 1. Web Site: "http://www.appscms.org/"
-2. Licence: "[Licence](index.php?cms_action=cms_text_view&uri=cms%2FLICENCE.txt)"
+2. Licence: "[Licence](http://www.appscms.org/index.php?cms_action=cms_text_view&uri=cms%2FLICENCE.txt)"
 3. Code Repository: "https://github.com/AppsCMS/AppsCMS_Latest/"
-4. Release Notes: "[Release Notes](index.php?cms_action=cms_text_view&uri=cms%2FReleaseNotes.md)"
-5. Install Notes: "[Installation](index.php?cms_action=cms_text_view&uri=cms%2FInstallation.md)"
+4. Release Notes: "[Release Notes](http://www.appscms.org/index.php?cms_action=cms_text_view&uri=cms%2FReleaseNotes.md)"
+5. Install Notes: "[Installation](http://www.appscms.org/index.php?cms_action=cms_text_view&uri=cms%2FInstallation.md)"
 
 .EOF.

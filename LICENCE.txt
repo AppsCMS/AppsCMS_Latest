@@ -1,5 +1,5 @@
 The Clear BSD License
-    Copyright (C) 2013 to 2021 Robert Fulton
+    Copyright (C) 2013 to 2022 Robert Fulton
     All rights reserved.
 
 Application Management System (AppsCMS) for PHP for Licence.
