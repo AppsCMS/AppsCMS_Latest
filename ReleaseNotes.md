@@ -1,14 +1,15 @@
 Applications Management System Library for PHP (AppsCMS) - RELEASE NOTES
 ========================================================================
 see "[Licence](index.php?cms_action=cms_text_view&uri=cms%2FLICENCE.txt)"
-<!-- SVN Build: $Id: ReleaseNotes.md 2590 2022-03-15 07:33:38Z robert0609 $ -->
+<!-- SVN Build: $Id: ReleaseNotes.md 2595 2022-04-01 05:47:41Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
 
-Release Notes - V3.00-RC3 - Februrary 2022
+Release Notes - V3.00-RC3 - April 2022
 ------------------------------------------
 Changes to websockets operation (removed tcp, udp and http servers code, leaving only draft websockets code).
 Fixed contactus subject encoding.
+Added index.php?cms_action=cms_version
 Improvements and bugfixes
 
 Release Notes - V3.00-RC2 - January 2022
