@@ -1,9 +1,14 @@
 Applications Management System Library for PHP (AppsCMS) - RELEASE NOTES
 ========================================================================
 see "[Licence](index.php?cms_action=cms_text_view&uri=cms%2FLICENCE.txt)"
-<!-- SVN Build: $Id: ReleaseNotes.md 2595 2022-04-01 05:47:41Z robert0609 $ -->
+<!-- SVN Build: $Id: ReleaseNotes.md 2598 2022-04-02 09:24:51Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
+
+Release Notes - V3.01 - April 2022
+----------------------------------
+Added Variable to set maximum inline nav bar tool inclusion.
+
 
 Release Notes - V3.00-RC3 - April 2022
 ------------------------------------------
