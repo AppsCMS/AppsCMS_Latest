@@ -1,7 +1,7 @@
 Applications Management System Library for PHP (AppsCMS) - INSTALLATION NOTES
 =============================================================================
 see "[Licence](index.php?cms_action=cms_text_view&uri=cms%2FLICENCE.txt)"
-<!-- SVN Build: $Id: Installation.md 2411 2021-11-26 00:32:45Z robert0609 $ -->
+<!-- SVN Build: $Id: Installation.md 2616 2022-04-30 23:10:54Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
 
