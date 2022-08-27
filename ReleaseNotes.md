@@ -1,11 +1,11 @@
 Applications Management System Library for PHP (AppsCMS) - RELEASE NOTES
 ========================================================================
 see "[Licence](index.php?cms_action=cms_text_view&uri=cms%2FLICENCE.txt)"
-<!-- SVN Build: $Id: ReleaseNotes.md 2770 2022-08-27 04:16:21Z robert0609 $ -->
+<!-- SVN Build: $Id: ReleaseNotes.md 2764 2022-08-27 01:45:07Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
 
-Release Notes - V3.03-RC1 - September 2022
+Release Notes - V3.03-RC1 - August 2022
 ------------------------------------------
 Remove ->logEvent() dynamic method, now using ::log_info_msg() static method
 Removed unused composer packages.
