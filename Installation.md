@@ -1,7 +1,7 @@
 Applications Management System Library for PHP (AppsCMS) - INSTALLATION NOTES
 =============================================================================
 see "[Licence](index.php?cms_action=cms_text_view&uri=cms%2FLICENCE.txt)"
-<!-- SVN Build: $Id: Installation.md 2616 2022-04-30 23:10:54Z robert0609 $ -->
+<!-- _SVN_build: $Id: Installation.md 2836 2022-10-08 02:11:22Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
 
@@ -57,7 +57,6 @@ and reinstall/update the AppsCMS (using the .sh installer then noting the engage
  (DOCROOT)/cms/ directory with the AppsCMS library as the normal user.
  The is will allow the IDE and debugger access to the read only AppsCMS library.
  Otherwise copy the cms directory in the AppsCMS zip file to the (DOCROOT)/cms/ directory (giving read/write access).
-*	The user_allow_other is required in /etc/fuse.conf to allow sharing of cms_lib_sqsh.sqsh library mount between command line and web server.
 *	The AppsCMS library package is installed in the "/usr/local/share/AppsCMS" directory.
 
 The cms_rebuild.sh and cms_set_permissions.sh scripts in the (DOCROOT) are to make it easier for common command line rebuilds.
