@@ -1,9 +1,15 @@
 Applications Management System Library for PHP (AppsCMS) - RELEASE NOTES
 ========================================================================
 see "[Licence](index.php?cms_action=cms_text_view&uri=cms%2FLICENCE.txt)"
-<!-- _SVN_build: $Id: ReleaseNotes.md 2850 2022-10-09 11:05:18Z robert0609 $ -->
+<!-- _SVN_build: $Id: ReleaseNotes.md 2859 2022-10-10 12:41:31Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
+
+Release Notes - V3.03-RC4 - October 2022
+----------------------------------------
+Reduced contents cache overhead.
+Reduced dynamic minify overhead.
+Added Gotcha option to login.
 
 Release Notes - V3.03-RC3 - October 2022
 ----------------------------------------
