@@ -1,9 +1,17 @@
 Applications Management System Library for PHP (AppsCMS) - RELEASE NOTES
 ========================================================================
 see "[Licence](index.php?cms_action=cms_text_view&uri=cms%2FLICENCE.txt)"
-<!-- _SVN_build: $Id: ReleaseNotes.md 2859 2022-10-10 12:41:31Z robert0609 $ -->
+<!-- _SVN_build: $Id: ReleaseNotes.md 2881 2022-10-15 23:45:04Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
+
+Release Notes - V3.03-RC5 - October 2022
+----------------------------------------
+Improved the theme and CSS generation.
+Websockets SWOOLE server code has been removed in favour of external application dedicated server instance (e.g. swoole or node.js).
+Changed LMC_ configuration prefix to LM_C_ for AppsCMS configuration defines to avoid conflicts with application defines.
+Changed INI_ settings prefix to CMS_S_ for AppsCMS settings defines to avoid conflicts with application defines.
+Bugfixes.
 
 Release Notes - V3.03-RC4 - October 2022
 ----------------------------------------
