@@ -1,9 +1,14 @@
 Applications Management System Library for PHP (AppsCMS) - RELEASE NOTES
 ========================================================================
 see "[Licence](index.php?cms_action=cms_text_view&uri=cms%2FLICENCE.txt)"
-<!-- _SVN_build: $Id: ReleaseNotes.md 2881 2022-10-15 23:45:04Z robert0609 $ -->
+<!-- _SVN_build: $Id: ReleaseNotes.md 2888 2022-10-16 22:37:57Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
+
+Release Notes - V3.03-RC6 - October 2022
+----------------------------------------
+Added .scss JIT compiler, dart-sass, and interface code through the Minify plugin for .css generation.
+Fixed API IP check bug.
 
 Release Notes - V3.03-RC5 - October 2022
 ----------------------------------------
