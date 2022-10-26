@@ -1,7 +1,7 @@
 Applications Management System Library for PHP (AppsCMS) - README
 =========================================================
 see "[Licence](index.php?cms_action=cms_text_view&uri=cms%2FLICENCE.txt)"
-<!-- _SVN_build: $Id: README.md 2836 2022-10-08 02:11:22Z robert0609 $ -->
+<!-- _SVN_build: $Id: README.md 2786 2022-08-31 05:40:44Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
 

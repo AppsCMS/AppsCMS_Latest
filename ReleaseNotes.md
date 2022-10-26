@@ -1,9 +1,20 @@
 Applications Management System Library for PHP (AppsCMS) - RELEASE NOTES
 ========================================================================
 see "[Licence](index.php?cms_action=cms_text_view&uri=cms%2FLICENCE.txt)"
-<!-- _SVN_build: $Id: ReleaseNotes.md 2888 2022-10-16 22:37:57Z robert0609 $ -->
+<!-- _SVN_build: $Id: ReleaseNotes.md 2914 2022-10-25 14:32:35Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
+
+Release Notes - V3.03-RC7 - October 2022
+----------------------------------------
+Fixed links filter bug.
+Fixed the class interface check bug.
+Fixed apps settings for images bug.
+Fixed cms/lib class autoload bug.
+Changed the etc/ and var/ directories to the apache server user name permission.
+Added theme settings for top memus, top title and top authorization sections.
+Moved example out of the AppsCMS, now in a dist-pkgs/examples/ directory.
+Improvements.
 
 Release Notes - V3.03-RC6 - October 2022
 ----------------------------------------
