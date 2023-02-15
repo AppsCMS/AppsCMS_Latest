@@ -1,0 +1,32 @@
+
+# obvious folders to ignore
+.Trash*
+stats/
+play/
+temp/
+tmp/
+.svn/
+.directory
+
+ARCHIVED/
+dist-pkgs/
+cms/docroot_files
+localtools/
+doxy/
+cms/lib/PEAR/
+/nbproject/private/
+
+apps_fs_sqsh.sqsh
+page_bodies_fs_sqsh.sqsh
+sitemap.*
+etc/variables/
+
+# apps/ nothing to ignore
+# etc/ nothing to ignore
+# cms/ nothing to ignore
+# ignore the contents of var/
+var/
+
+cms/lib/vendor/
+
+# EOF
