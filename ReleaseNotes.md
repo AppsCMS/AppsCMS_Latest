@@ -1,7 +1,7 @@
 Applications Management System Library for PHP (AppsCMS) - RELEASE NOTES
 ========================================================================
 see "[Licence](index.php?cms_action=cms_text_view&uri=cms%2FLICENCE.txt)"
-<!-- _SVN_build: $Id: ReleaseNotes.md 3111 2023-02-08 13:44:02Z robert0609 $ -->
+<!-- _SVN_build: $Id: ReleaseNotes.md 3159 2023-02-16 10:41:56Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
 
@@ -25,6 +25,7 @@ Improvement to DB reconstruction from JSON.
 Added settings for HTTP and HTTPS ports.
 Added email and mobile verification.
 Added settings filter function to settings edit classs.
+Added body page maximum width settings.
 Other improvments and bugfixes.
 
 Release Notes - V3.03-RC7 - October 2022
