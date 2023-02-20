@@ -3,6 +3,10 @@
 #	_SVN_build: 
 
 # AppsCMS RPM repository access.
+
+Options +Indexes
+IndexOptions NameWidth=150
+
 <Files *>
 	Require all granted
 </Files>
