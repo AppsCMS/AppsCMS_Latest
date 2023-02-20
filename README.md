@@ -1,6 +1,6 @@
 Applications Management System Library for PHP (AppsCMS) - README
 =========================================================
-<!-- _SVN_build: $Id: README.md 3105 2023-02-08 03:30:29Z robert0609 $ -->
+<!-- _SVN_build: $Id: README.md 3210 2023-02-20 11:45:04Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
 
@@ -35,5 +35,6 @@ Useful Online AppsCMS links;-
 3. Code Repository: "https://github.com/AppsCMS/AppsCMS_Latest/"
 4. Release Notes: "[Release Notes](http://www.appscms.org/index.php?cms_action=cms_text_view&uri=cms%2FReleaseNotes.md)"
 5. Install Notes: "[Installation](http://www.appscms.org/index.php?cms_action=cms_text_view&uri=cms%2FInstallation.md)"
+6. RPM Repository: "[Installation](http://www.appscms.org/RPM/AppsCMS.repo"
 
 .EOF.

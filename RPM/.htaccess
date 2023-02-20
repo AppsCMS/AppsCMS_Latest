@@ -1,0 +1,10 @@
+#	Applications Management System Library for PHP (AppsCMS)
+#	see Licence in /work/WebPages/APPS_CMS/branches/AppsCMS/cms/LICENCE.txt
+#	_SVN_build: 
+
+# AppsCMS RPM repository access.
+<Files *>
+	Require all granted
+</Files>
+
+# .EOF.
