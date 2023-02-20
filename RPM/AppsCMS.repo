@@ -1,0 +1,6 @@
+[AppsCMS] 
+ name=AppsCMS repository 
+ baseurl=https://github.com/AppsCMS/AppsCMS_Latest/RPM/repo/ 
+ enabled=1 
+ gpgcheck=0 
+ 
