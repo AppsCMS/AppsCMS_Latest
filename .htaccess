@@ -1,0 +1,14 @@
+#	Applications Management System Library for PHP (AppsCMS)
+#	see Licence in cms/LICENCE.txt
+#	_SVN_build: svn3298
+
+# AppsCMS RPM repository access.
+
+Options +Indexes
+IndexOptions NameWidth=150
+
+<Files *>
+	Require all granted
+</Files>
+
+# .EOF.
