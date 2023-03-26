@@ -1,20 +1,24 @@
 Applications Management System Library for PHP (AppsCMS) - RELEASE NOTES
 ========================================================================
 see "[Licence](index.php?cms_action=cms_text_view&uri=cms%2FLICENCE.txt)"
-<!-- _SVN_build: $Id: ReleaseNotes.md 3278 2023-03-23 14:46:57Z robert0609 $ -->
+<!-- _SVN_build: $Id: ReleaseNotes.md 3302 2023-03-26 01:30:14Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
 
+Release Notes - V3.07 - MArch 2023
+----------------------------------
+Released
+
 Release Notes - V3.06.RC1 - March 2023
 --------------------------------------
-Changed the version format to be compatible with system package names (e.g. from V3.06-RC1 to V3.06.RC1, i.e. no dashes, dashes used for system package release).
+Changed the version format to be compatible with system package names (e.g. from V3.06-RC1 to V3.07, i.e. no dashes, dashes used for system package release).
 Added application sub-applications.
 Added LittleShop online shop application example.
 Important Changes per many requests;-
 	1. Changed javascript/ directories name to js/,
 	2. Changed stylesheets/ directories name to css/,
 	3. Added a cms/cli/upgraders/cms_upgrade_v305.sh (see --help) to upgrade directories.
-Added the (APPS_DIR)/include/apps_head_inc.php and (APP_DIR)/include/app_head_inc.php provision for custom head content. 
+Added the (APPS_DIR)/include/apps_head_inc.php and (APP_DIR)/include/app_head_inc.php provision for custom head content.
 Added application and tool copyright messages.
 Added applications media/ directory for direct browser access to media (images,icons,videos, etc.).
 Improvements and bugfixes.
