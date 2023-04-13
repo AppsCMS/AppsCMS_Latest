@@ -1,11 +1,20 @@
 Applications Management System Library for PHP (AppsCMS) - RELEASE NOTES
 ========================================================================
 see "[Licence](index.php?cms_action=cms_text_view&uri=cms%2FLICENCE.txt)"
-<!-- _SVN_build: $Id: ReleaseNotes.md 3302 2023-03-26 01:30:14Z robert0609 $ -->
+<!-- _SVN_build: $Id: ReleaseNotes.md 3312 2023-04-11 04:45:17Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
 
-Release Notes - V3.07 - MArch 2023
+Release Notes - V3.07.2 - April 2023
+------------------------------------
+Updated the PHPMailer to 6.8.0
+Bugfixes and Improvements
+
+Release Notes - V3.07.1 - April 2023
+------------------------------------
+Bugfixes and Improvements
+
+Release Notes - V3.07 - March 2023
 ----------------------------------
 Released
 
