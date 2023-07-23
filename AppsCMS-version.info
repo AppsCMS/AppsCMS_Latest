@@ -1,12 +1,12 @@
 #	Applications Management System Library for PHP (AppsCMS)
 #	see Licence in cms/LICENCE.txt
-#	_SVN_build: svn3333
+#	_SVN_build: svn3378
 
-# AppsCMS Version Info File (Used to check for updates - 20230413-103528).
-AppsCMS-Library-version=V3.07.2
-AppsCMS-Library-Latest=AppsCMS-Library-V3.07.2.zip
-AppsCMS-Library-Installer=AppsCMS-Library-V3.07.2.sh
-AppsCMS-Library-rpm=AppsCMS-Library-V3.07.2-1.svn3333.noarch.rpm
-AppsCMS-Docs-rpm=AppsCMS-Docs-V3.07.2-1.svn3333.noarch.rpm
+# AppsCMS Version Info File (Used to check for updates - 20230723-174809).
+AppsCMS-Library-version=V3.07.4
+AppsCMS-Library-Latest=AppsCMS-Library-V3.07.4.zip
+AppsCMS-Library-Installer=AppsCMS-Library-V3.07.4.sh
+AppsCMS-Library-rpm=AppsCMS-Library-V3.07.4-1.svn3378.noarch.rpm
+AppsCMS-Docs-rpm=AppsCMS-Docs-V3.07.4-1.svn3378.noarch.rpm
 
 # .EOF.
