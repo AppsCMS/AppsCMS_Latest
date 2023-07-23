@@ -1,7 +1,7 @@
 Applications Management System Library for PHP (AppsCMS) - RELEASE NOTES
 ========================================================================
 see "[Licence](index.php?cms_action=cms_text_view&uri=cms%2FLICENCE.txt)"
-<!-- _SVN_build: $Id: ReleaseNotes.md 3389 2023-07-23 10:45:02Z robert0609 $ -->
+<!-- _SVN_build: $Id: ReleaseNotes.md 3386 2023-07-23 09:40:08Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
 
