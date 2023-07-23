@@ -1,6 +1,6 @@
 Applications Management System Library for PHP (AppsCMS) - README
 =========================================================
-<!-- _SVN_build: $Id: README.md 3230 2023-02-24 06:43:21Z robert0609 $ -->
+<!-- _SVN_build: $Id: README.md 3389 2023-07-23 10:45:02Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
 
@@ -20,12 +20,12 @@ Contributions and feedback are welcome (see web site).
 
 Released under the BSD 3-Clause-Clear License.
 
-AppsCMS Code (cms/) Statistics including libraries	(as of V3.04)
+AppsCMS Code (cms/) Statistics including libraries	(as of V3.07.5)
 -----------------------------------------------------------------
-PHP code: 152,558 lines,
-JS code: 23,157 lines,
-CSS code: 2,956 lines,
-Bash code: 1,960 lines,
+PHP code: 163,560 lines,
+JS code: 23,376 lines,
+CSS code: 3,047 lines,
+Bash code: 2,149 lines,
 cms_lib_sqsh.sqsh 11MB (read only squashfs filesystem contains cms/).
 
 Useful Online AppsCMS links;-

@@ -1,9 +1,13 @@
 Applications Management System Library for PHP (AppsCMS) - RELEASE NOTES
 ========================================================================
 see "[Licence](index.php?cms_action=cms_text_view&uri=cms%2FLICENCE.txt)"
-<!-- _SVN_build: $Id: ReleaseNotes.md 3381 2023-07-23 07:53:09Z robert0609 $ -->
+<!-- _SVN_build: $Id: ReleaseNotes.md 3389 2023-07-23 10:45:02Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
+
+Release Notes - V3.07.5 - July 2023
+-----------------------------------
+Added JSON array signing.
 
 Release Notes - V3.07.4 - July 2023
 -----------------------------------
