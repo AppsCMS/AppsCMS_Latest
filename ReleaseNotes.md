@@ -1,9 +1,24 @@
 Applications Management System Library for PHP (AppsCMS) - RELEASE NOTES
 ========================================================================
 see "[Licence](index.php?cms_action=cms_text_view&uri=cms%2FLICENCE.txt)"
-<!-- _SVN_build: $Id: ReleaseNotes.md 3386 2023-07-23 09:40:08Z robert0609 $ -->
+<!-- _SVN_build: $Id: ReleaseNotes.md 3441 2024-04-28 04:54:05Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
+
+Release Notes - V3.07.7 - April 2024
+-------------------------------------
+Updated minify in "cms/lib/minify/" for PHP 8.2.
+Fixed the callable references for PHP 8.2 (e.g. from "'self::array_trimCallback'" to "self::class . '::array_trimCallback'").
+Added return user font size to original size.
+Bugfixes and improvements.
+
+Release Notes - V3.07.6 - August 2023
+-------------------------------------
+HTML page minify bugfix.
+Added user language selection option.
+Added user font size increase/decrease option.
+Updated cms/lib/vendor composer installs.
+Bugfixes and improvements.
 
 Release Notes - V3.07.5 - July 2023
 -----------------------------------
