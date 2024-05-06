@@ -1,9 +1,9 @@
 The Clear BSD License
-    Copyright (C) 2013 to 2022 Robert Fulton
+    Copyright (C) 2013 to 2024 Robert Fulton
 	Email: robert0609@braeworks.com
     All rights reserved.
 
-Application Management System (AppsCMS) for PHP for Licence.
+Application Management System (AppsCMS) for PHP Licence.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted (subject to the limitations in the

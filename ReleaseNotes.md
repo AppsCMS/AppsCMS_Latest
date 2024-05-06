@@ -1,9 +1,14 @@
 Applications Management System Library for PHP (AppsCMS) - RELEASE NOTES
 ========================================================================
 see "[Licence](index.php?cms_action=cms_text_view&uri=cms%2FLICENCE.txt)"
-<!-- _SVN_build: $Id: ReleaseNotes.md 3441 2024-04-28 04:54:05Z robert0609 $ -->
+<!-- _SVN_build: $Id: ReleaseNotes.md 3445 2024-05-05 08:35:56Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
+
+Release Notes - V3.07.8 - April 2024
+-------------------------------------
+Fixed bug in auth verification json error.
+Changed "font size normal" button to configured value.
 
 Release Notes - V3.07.7 - April 2024
 -------------------------------------
