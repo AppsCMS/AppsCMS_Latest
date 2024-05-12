@@ -1,9 +1,13 @@
 Applications Management System Library for PHP (AppsCMS) - RELEASE NOTES
 ========================================================================
 see "[Licence](index.php?cms_action=cms_text_view&uri=cms%2FLICENCE.txt)"
-<!-- _SVN_build: $Id: ReleaseNotes.md 3445 2024-05-05 08:35:56Z robert0609 $ -->
+<!-- _SVN_build: $Id: ReleaseNotes.md 3457 2024-05-12 03:59:09Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
+
+Release Notes - V3.07.9 - May 2024
+----------------------------------
+Bugfixes and improvements.
 
 Release Notes - V3.07.8 - April 2024
 -------------------------------------
