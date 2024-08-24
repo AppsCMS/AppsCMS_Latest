@@ -1,9 +1,17 @@
 Applications Management System Library for PHP (AppsCMS) - RELEASE NOTES
 ========================================================================
 see "[Licence](index.php?cms_action=cms_text_view&uri=cms%2FLICENCE.txt)"
-<!-- _SVN_build: $Id: ReleaseNotes.md 3459 2024-05-12 10:04:14Z robert0609 $ -->
+<!-- _SVN_build: $Id: ReleaseNotes.md 3478 2024-08-24 04:30:50Z robert0609 $ -->
 
 ![AppsCMS Logo](cms/images/AppsCMS_logo_small.gif)
+
+Release Notes - V3.07.11 - August 2024
+--------------------------------------
+Remove https://polyfill.io/ usage (suggest https://cdnjs.cloudflare.com/polyfill/). polyfill usage now disabled by default.
+
+Release Notes - V3.07.10 - June 2024
+------------------------------------
+Bugfixes and improvements.
 
 Release Notes - V3.07.9 - May 2024
 ----------------------------------
